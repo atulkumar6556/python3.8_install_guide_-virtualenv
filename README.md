@@ -1,5 +1,10 @@
 # python3.8_install_guide_-virtualenv
-https://forum.arduino.cc/u/atulkumar6556
+
+<a href="https://www.buymeacoffee.com/atulkumar6556" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://forum.arduino.cc/u/atulkumar6556" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="Arduino " style="height: 60px !important;width: 217px !important; " ></a>
+<a href="https://forum.boltiot.com/u/atulkumar6556/" target="_blank"><img src="https://i0.wp.com/atlanta.makerfaire.com/wp-content/uploads/sites/9/gravity_forms/16-172723c9d9294ab43c7a992c8f41d157/2018/09/Bolt_MakerFaire.png?fit=750%2C500&strip=all" alt="Boltiot" style="height: 60px !important;width: 217px !important;radius: 20%  !important;" ></a>
+
+
 ## Install python 3.8 
 
 ### (1)
